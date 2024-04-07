@@ -1,0 +1,1 @@
+import{Fb as s,_ as o,jb as i,kb as a,xb as r}from"./chunk-6GN7ROPZ.js";var d=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-categories"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,p){n&1&&(i(0,"p"),r(1,"categories works!"),a())}});let t=e;return t})();export{d as CategoriesComponent};
