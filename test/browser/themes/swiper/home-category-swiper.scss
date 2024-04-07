@@ -1,0 +1,30 @@
+.swiper ,.swiper-initialized {
+  padding-bottom: 34px !important;
+
+ }
+.swiper-button-prev,
+.swiper-button-next {
+  svg {
+    width: 18px !important;
+    height: 18px !important;
+    path {
+      fill: white;
+    }
+  }
+  bottom: 0px !important;
+  top: unset !important;
+  right: 0 !important;
+  left: 0 !important;
+  margin: auto;
+}
+
+.swiper-button-prev {
+
+}
+
+.swiper-button-next {
+  transform: translateX(30px);
+  &:lang(ar){
+    transform: translateX(-30px);
+  }
+}
