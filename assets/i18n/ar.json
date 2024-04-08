@@ -1,0 +1,78 @@
+{
+  "navbar": {
+    "loginSignup": "تسجيل الدخول / التسجيل",
+    "logout": "تسجيل الخروج"
+  },
+  "footer": {
+    "allRight": "جميع الحقوق محفوظة © 2024"
+  },
+  "page": {
+    "discover": "اكتشف",
+    "packages": "حزم",
+    "aboutus": "عنا",
+    "help": "مساعدة",
+    "myProfile": "ملفي الشخصي",
+    "myTickets": "تذاكري",
+    "savedEvents": "الأحداث المحفوظة",
+    "events": "الأحداث",
+    "home": "الصفحة الرئيسية",
+    "contactUs": "اتصل بنا",
+    "terms&condation": "الشروط والأحكام",
+    "policy": "السياسة والخصوصية"
+  },
+  "general": {
+    "welcome": "مرحبًا",
+    "more": "المزيد"
+  },
+  "home": {
+    "discoverSportEvents": "اكتشف فعاليات الرياضة",
+    "reachRefreshMental": "واسترخي وانعش عقلك",
+    "exploreByCategory": "استكشاف حسب الفئة",
+    "exploreAll": "استكشاف الكل",
+    "recentEvents": "الفعاليات الحديثة",
+    "eventsNearMe": "الفعاليات بالقرب مني",
+    "discoverAllEvents": "اكتشف جميع الفعاليات في تطبيقنا",
+    "downloadOurAppNow": "قم بتنزيل تطبيقنا الآن",
+    "scanTheCode": "مسح الرمز للتنزيل"
+  },
+  "placeHolder": {
+    "search": "بحث..."
+  },
+  "label": {
+    "yourEmail": "بريدك الإلكتروني",
+    "password": "كلمة المرور",
+    "fullName": "الاسم الكامل",
+    "emailAddress": "عنوان البريد الإلكتروني",
+    "yourPhone": "رقم هاتفك"
+  },
+  "auth": {
+    "welcome": "مرحبًا بك في موقعنا على الإنترنت",
+    "welcomeBack": "مرحباً مجددًا",
+    "forgetPassword": "نسيت كلمة المرور",
+    "sendPassword": "إرسال كلمة المرور",
+    "login": "تسجيل الدخول",
+    "register": "التسجيل",
+    "signInToYourAccount": "تسجيل الدخول إلى حسابك",
+    "rememberMe": "تذكرني",
+    "signUp": "التسجيل",
+    "createAnAccount": "إنشاء حساب",
+    "newPassword": "كلمة المرور الجديدة",
+    "enterVerificationCode": "أدخل رمز التحقق",
+    "confirm": "تأكيد"
+  },
+  "profile": {
+    "updateInformation": "تحديث المعلومات",
+    "securityInformation": "معلومات الأمان",
+    "oldPassword": "كلمة المرور القديمة",
+    "newPassword": "كلمة المرور الجديدة",
+    "rePassword": "تأكيد كلمة المرور الجديدة",
+    "subscription": "الاشتراك",
+    "youAreNowIn": "أنت الآن في",
+    "basicPlan": "الخطة الأساسية",
+    "daysLeft": "الأيام المتبقية",
+    "yourPremiumPlanWillExpireOn": "سوف تنتهي خطتك المميزة في"
+  },
+  "button": {
+    "save": "حفظ"
+  }
+}
