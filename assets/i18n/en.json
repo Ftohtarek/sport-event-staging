@@ -1,0 +1,46 @@
+{
+  "navbar":{
+    "loginSignup": "Login / Sign Up",
+    "logout": "Logout"
+  },
+  "footer":{
+    "allRight":"All right reserved © 2024"
+  },
+
+  "page": {
+    "discover": "Discover",
+    "packages": "Packages",
+    "aboutus": "About us",
+    "help": "Help",
+    "myProfile": "My Profile",
+    "myTickets": "My Tickets",
+    "savedEvents": "Saved Events",
+    "events":"Events",
+    "home":"Home",
+    "contactUs":"Contact us",
+    "terms&condation":"Terms & Conditions",
+    "policy":"Policy & Privacy"
+
+
+  },
+
+  "general": {
+    "welcome":"Welcome",
+    "more":"More"
+
+  },
+  "home": {
+    "discoverSportEvents":"Discover Sport Events",
+    "reachRefreshMental":" & Reach Refresh Mental",
+    "exploreByCategory":"Explore by category",
+    "exploreAll":"Explore all",
+    "recentEvents":"Recent Events",
+    "eventsNearMe":"Events near me",
+    "discoverAllEvents":"Discover all events in our APP",
+    "downloadOurAppNow":"Download our app now",
+    "scanTheCode":"Scan the code to download"
+  },
+  "placeHolder":{
+    "search":"Search..."
+  }
+}
