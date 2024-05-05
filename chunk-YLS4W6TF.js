@@ -1,1 +1,0 @@
-import{b as o}from"./chunk-ZNR7NDAU.js";import{a as t}from"./chunk-M3I5XXFR.js";import{j as e}from"./chunk-YZY77BDX.js";var f=r=>{t.get(o).success("",r.message,{duration:5e3});let c=t.get(e);r.redirctTo&&c.navigate([r.redirctTo]),r.callback&&r.callback()};export{f as a};
